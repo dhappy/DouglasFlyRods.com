@@ -1,0 +1,5 @@
+<IfModule mod_rewrite.c>
+	<IfModule mod_env.c>
+		SetEnv HTTP_MOD_REWRITE_SHELL On
+	</IfModule>
+</IfModule>
